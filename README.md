@@ -11,6 +11,7 @@ This dashboard helps the he Retention Manager from the PhoneNow telecom with the
 
 Create a dashboard to reflect customer demographics, insights and Customers who is at risk to prevent losing of customers
 
+### Tools Used - Power BI
 
 ### Steps followed 
 
